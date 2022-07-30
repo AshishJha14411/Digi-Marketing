@@ -6,7 +6,7 @@ This is a sample page. The website focuses on implementing the basics of HTML an
 
 ### Deployed Version Link
 
-[Digital Marketing Home]()
+[Digital Marketing Home](https://digimarketinghome.netlify.app/)
 
 ### Snapshot of the Webpage
 
